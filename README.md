@@ -10,6 +10,8 @@ This project demonstrates how to build a dynamic table interface where users can
 
 Add your deployed link here after deployment.
 
+https://student-manager-react-crud-table.vercel.app/students
+
 
 ---
 
