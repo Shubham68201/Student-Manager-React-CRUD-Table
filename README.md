@@ -8,8 +8,6 @@ This project demonstrates how to build a dynamic table interface where users can
 
 ## 🚀 Live Demo
 
-Add your deployed link here after deployment.
-
 https://student-manager-react-crud-table.vercel.app/students
 
 
@@ -50,7 +48,7 @@ Libraries
 Tools
 
 * GitHub (version control)
-* Vercel / Netlify (deployment)
+* Vercel (deployment)
 
 ---
 
