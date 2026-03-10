@@ -54,27 +54,41 @@ Tools
 
 ## 📁 Project Structure
 
-src
+Student-Manager-React-CRUD-Table
 │
-├── components
-│   ├── StudentForm.jsx
-│   ├── StudentTable.jsx
-│   └── Loader.jsx
+├── public
 │
-├── pages
-│   └── StudentsPage.jsx
+├── src
+│   ├── assets
+│   ├── components
+│   │   ├── StudentForm.jsx
+│   │   ├── StudentTable.jsx
+│   │   └── Loader.jsx
+│   │
+│   ├── data
+│   │   └── students.json
+│   │
+│   ├── pages
+│   │   └── StudentsPage.jsx
+│   │
+│   ├── redux
+│   │   └── studentsSlice.js
+│   │
+│   ├── utils
+│   │   └── exportExcel.js
+│   │
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
 │
-├── redux
-│   └── studentsSlice.js
-│
-├── utils
-│   └── exportExcel.js
-│
-├── data
-│   └── students.json
-│
-├── App.jsx
-└── main.jsx
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+└── vite.config.js
 
 ---
 
